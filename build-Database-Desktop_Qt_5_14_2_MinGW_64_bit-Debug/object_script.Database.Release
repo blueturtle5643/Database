@@ -1,0 +1,14 @@
+release/Field.o
+release/Logical.o
+release/Parser.o
+release/RPN.o
+release/Record.o
+release/Records.o
+release/Relational.o
+release/STokenizer.o
+release/ShuntingYard.o
+release/StrToken.o
+release/Table_functions.o
+release/Token.o
+release/Value.o
+release/main.o

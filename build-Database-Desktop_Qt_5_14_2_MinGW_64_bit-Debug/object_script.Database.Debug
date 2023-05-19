@@ -1,0 +1,14 @@
+debug/Field.o
+debug/Logical.o
+debug/Parser.o
+debug/RPN.o
+debug/Record.o
+debug/Records.o
+debug/Relational.o
+debug/STokenizer.o
+debug/ShuntingYard.o
+debug/StrToken.o
+debug/Table_functions.o
+debug/Token.o
+debug/Value.o
+debug/main.o
